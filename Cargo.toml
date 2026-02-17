@@ -1,0 +1,7 @@
+[package]
+name = "lockless-datastructures-lib-test-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lockless-datastructures = "0.1.0"
